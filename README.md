@@ -12,7 +12,8 @@ McuComm
 [image1]:https://github.com/downloads/s-ryuki/Pictures/McuComm_Comm.png
 
 　sensor(OutPort)からはマイコンに接続されているセンサの値が出力されます。  
-　提供するプログラムはmbed NXP LPC1768ですが、McuCommの通信プロトコルに沿ってPWMを出力できればどのようなマイコンでも使用可能です。  
+　提供するプログラムはmbed NXP LPC1768ですが、McuCommの通信プロトコルに沿ってPWMを  
+　出力できればどのようなマイコンでも使用可能です。  
 　McuCommのShell上には送信したID、TergetPosition、Timeが表示されます。  
 　  
 使用方法
