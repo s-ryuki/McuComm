@@ -6,9 +6,9 @@ McuComm
 --------------------
 　このコンポーネントはInPortをMotionLoader、ヒューマンインターフェイス、またはそれに準ずるコンポーネントからコマンドを受け取ります。  
 　そのコマンドをPWM方式のサーボモータに沿ったをものに変換をし、シリアルポートから出力。  
-　マイコンで読み取り、PWMに変換することでサーボモータを制御します。 
-　
-　[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/McuComm_Comm.png)
+　マイコンで読み取り、PWMに変換することでサーボモータを制御します。  
+
+[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/McuComm_Comm.png)
 [image1]:https://github.com/downloads/s-ryuki/Pictures/McuComm_Comm.png　
 
 　sensorからはマイコンに接続されているセンサの値が出力されます。  
