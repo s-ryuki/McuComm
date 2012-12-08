@@ -21,7 +21,7 @@ McuComm
 　　　(2)COM番号を確認し、mcu.iniの「port」を編集します。  
 　　　(3)mcu.iniのその他の情報を編集し、保存します。  
 　　　(4)Mcu_Comm.pyを起動します。  
-　　　(5)「モーション編集モード」で使用する場合はInPortをMotionEditorに、
+　　　(5)「モーション編集モード」で使用する場合はInPortをMotionEditorに、  
 　　　　　「モーション再生モード」で使用する場合はInPortをMotionLoaderに繋ぎます。
 　  
 　使用するサーボモータの個数やサーボモータの可動域情報は、iniフォルダ内のmcu.iniで変更します。  
