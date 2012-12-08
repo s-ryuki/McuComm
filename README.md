@@ -28,10 +28,12 @@ McuComm
 
 　　　　[![画像2][image2]](https://github.com/downloads/s-ryuki/Pictures/McuComm_ini.png)
 [image2]:https://github.com/downloads/s-ryuki/Pictures/McuComm_ini.png
-
-　　　①使用するCOMポート  
-　　　②通信ボーレート  
-　　　③タイムアウト  
-　　　④
-　　　⑤
-　　　⑥
+####　　　画面説明####
+　　　　　　①使用するCOMポート  
+　　　　　　②通信ボーレート    
+　　　　　　③タイムアウト  
+　　　　　　④センサ値の個数  
+　　　　　　⑤サーボモータの個数  
+　　　　　　⑥サーボIDに対応する番号  
+　　　　　　⑦Shellにセンサ値を表示する/しない  
+　　　　　　⑧サーボモータの可動域および角度数値のオフセット[10deg]  
